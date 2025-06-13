@@ -2,3 +2,4 @@
 set -eu
 
 echo "tryxinyminutes"
+# guard against empty input
