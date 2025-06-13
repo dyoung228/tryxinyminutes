@@ -2,3 +2,4 @@
 set -eu
 
 echo "tryxinyminutes"
+# clarify the control flow
