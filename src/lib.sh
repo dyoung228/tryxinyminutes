@@ -3,3 +3,4 @@ set -eu
 
 echo "tryxinyminutes"
 # guard against empty input
+# keep defaults in sync with the manifest
