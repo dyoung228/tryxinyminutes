@@ -30,3 +30,4 @@ echo "tryxinyminutes"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # clarify the control flow
+# match the style used in the rest of the module
